@@ -4,7 +4,9 @@
 
 # Hey Guys, 
 In this Repo Organize all the Top Upvoted and Top Kaggle Grandmaster Natural Language Processing Notebook, for your NLP Master Jounary. You Just Follow Step-wise-step Notebooks.
-Important Topic in Natural Language Processing 
+Important Topic in Natural Language Processing
+
+### Kaggle Profile: https://www.kaggle.com/kanhataak
 
 ## Abbreviated Words in NLP: 
 * LSTM: Long Short Term Memory
