@@ -3,7 +3,7 @@
 ### If these Repo impress you,PLEASE Follow this Profile for more useful content..
 
 # Hey Guys, 
-In this Repo Organize all the Top Upvoted and Top Kaggle Grandmaster Natural Language Processing Notebook, for your NLP Master Jounary. You Just Follow Step-wise-step Notebooks.
+In this Repo Organize all the Top Upvoted and Top Kaggle Grandmaster Natural Language Processing Notebook, for your NLP Master Journey. You Just Follow Step-wise-step Notebooks.
 Important Topic in Natural Language Processing
 
 ### Kaggle Profile: https://www.kaggle.com/kanhataak
